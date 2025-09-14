@@ -40,5 +40,105 @@
 "summary_zh": "本文认为，被描述为 “伟大动物交响乐” 的动物世界之声具有深远的疗愈作用，并能将人类与更广阔的生命网络相连。文章探讨了从鸟鸣、蜜蜂嗡嗡声到猫咕噜声、海豚发声频率等各类动物声音如何助力人类身心健康。文中引用科学研究（如伦敦国王学院关于鸟鸣改善心理健康的研究）和文化案例（如纳瓦霍族的 “歌者”、古埃及的蜜蜂教义、斯洛文尼亚的蜜蜂疗愈传统），佐证动物声音可恢复和谐、缓解焦虑，并提醒人类自身仅是众多物种中的一员。文章还重点介绍了声音景观生态学家伯尼・克劳斯等人物 —— 他通过录制自然声音景观，强调每种生物的 “声音生态位”，并指出即使是次声波（如大象、长颈鹿的声音）和超声波（如蝙蝠的声音）也在塑造这一生态交响乐。此外，本文还提及动物笑声（如倭黑猩猩、啄羊鹦鹉的笑声）所传递的感染力，以及人类从动物身上学到的关于躯体活力的启示；同时对比了令人安心与令人不安的动物声音，以凸显自然界声音影响的完整范围。",
 "best_quote_en": "“Through the sounds of nature, we may move into the fullness of what it is to be a person... A person is an instrument of listening, played by the everything that surrounds them, resonating with goat-song and puffin-joke and camel-carol. Our bodies rung by the wild voices, the bells, blowings and buglings of life, conducting us to that place both electric and tender where we can feel most fully alive.”",
 "best_quote_zh": "“透过自然之声，我们或许能体悟到作为人的完整意义…… 人是聆听的乐器，被周遭万物所奏响，与山羊的鸣叫、海鹦的嬉语、骆驼的欢歌共振。生命的野性呼唤、清脆铃音、悠长呼啸与洪亮号角萦绕我们的身躯，引领我们抵达一个既激昂又温柔的境地 —— 在那里，我们能最真切地感受到生命的蓬勃。”"
-}
+},
+{
+    "id": 1,
+    "title": "How to Start Growing Your Own Food With a Vegetable Garden",
+    "title_zh": "如何开始用菜园种植自己的食物",
+    "source": "psyche.co",
+    "link": "https://psyche.co/guides/how-to-start-growing-your-own-food-with-a-vegetable-garden",
+    "tags": ["gardening", "food", "DIY"],
+    "tags_zh": ["园艺", "食物", "DIY"],
+    "date": "Unknown",
+    "summary_en": "A guide on how to start your own vegetable garden, covering planning, soil preparation, plant selection, and ongoing care.",
+    "summary_zh": "一份关于如何开始你自己的菜园的指南，涵盖了规划、土壤准备、植物选择和持续护理。",
+    "best_quote_en": "Gardening can be a form of therapy, connecting you with nature and providing a sense of accomplishment.",
+    "best_quote_zh": "园艺可以是一种治疗方式，将你与大自然联系起来，并提供一种成就感。"
+  },
+  {
+    "id": 2,
+    "title": "The Case Against Conversational Interfaces",
+    "title_zh": "反对对话式界面",
+    "source": "julian.digital",
+    "link": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
+    "tags": ["UI", "UX", "conversational interfaces", "design"],
+    "tags_zh": ["用户界面", "用户体验", "对话式界面", "设计"],
+    "date": "03/27/2025",
+    "summary_en": "This article argues against the widespread adoption of conversational interfaces, citing issues with efficiency, discoverability, and user frustration.",
+    "summary_zh": "本文反对广泛采用对话式界面，理由是效率、可发现性和用户体验问题。",
+    "best_quote_en": "Conversational interfaces often require more steps and cognitive load than traditional graphical interfaces.",
+    "best_quote_zh": "对话式界面通常比传统的图形界面需要更多的步骤和认知负荷。"
+  },
+  {
+    "id": 3,
+    "title": "U.S., Chinese officials launch talks in Spain on trade irritants, TikTok deadline",
+    "title_zh": "美国和中国官员在西班牙启动关于贸易摩擦和 TikTok 截止日期的会谈",
+    "source": "Reuters",
+    "link": "https://www.reuters.com/world/china/us-chinese-officials-launch-talks-spain-trade-irritants-tiktok-deadline-2025-09-14/",
+    "tags": ["China", "USA", "politics", "trade", "TikTok"],
+    "tags_zh": ["中国", "美国", "政治", "贸易", "TikTok"],
+    "date": "09/14/2025",
+    "summary_en": "U.S. and Chinese officials have launched talks in Spain to address trade irritants and the looming TikTok deadline.",
+    "summary_zh": "美国和中国官员在西班牙启动会谈，以解决贸易摩擦和即将到来的 TikTok 截止日期。",
+    "best_quote_en": "The talks are a sign of increased communication between the two countries despite ongoing tensions.",
+    "best_quote_zh": "会谈表明，尽管持续存在紧张关系，两国之间的沟通有所增加。"
+  },
+  {
+    "id": 4,
+    "title": "Review: Gustavo Dudamel and the New York Philharmonic Start a New Era",
+    "title_zh": "评论：古斯塔沃·杜达梅尔和纽约爱乐乐团开启新时代",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2025/09/12/arts/music/review-gustavo-dudamel-new-york-philharmonic-opening-night.html",
+    "tags": ["music", "review", "arts", "culture"],
+    "tags_zh": ["音乐", "评论", "艺术", "文化"],
+    "date": "09/12/2025",
+    "summary_en": "A review of Gustavo Dudamel's opening night performance with the New York Philharmonic, marking the start of a new era for the orchestra.",
+    "summary_zh": "对古斯塔沃·杜达梅尔与纽约爱乐乐团的开幕之夜演出的评论，标志着该乐团新时代的开始。",
+    "best_quote_en": "Dudamel's energy and passion were palpable, promising an exciting future for the Philharmonic.",
+    "best_quote_zh": "杜达梅尔的活力和热情显而易见，预示着爱乐乐团令人兴奋的未来。"
+  },
+  {
+    "id": 5,
+    "title": "Realism Is False",
+    "title_zh": "现实主义是错误的",
+    "source": "Edge.org",
+    "link": "https://www.edge.org/conversation/donald_d_hoffman-realism-is-false",
+    "tags": ["philosophy", "science", "perception", "reality"],
+    "tags_zh": ["哲学", "科学", "感知", "现实"],
+    "date": "Unknown",
+    "summary_en": "Donald D. Hoffman argues that our perception of reality is not an accurate representation of the world, but rather a user interface designed for survival.",
+    "summary_zh": "唐纳德·D·霍夫曼认为，我们对现实的感知不是对世界的准确呈现，而是一种为生存而设计的用户界面。",
+    "best_quote_en": "Evolution has not shaped us to see the world as it is, but as useful for us.",
+    "best_quote_zh": "进化并没有塑造我们去看到世界的本来面目，而是塑造我们去看到对我们有用的东西。"
+  },
+  {
+    "id": 6,
+    "title": "Scientists Are People, Too",
+    "title_zh": "科学家也是人",
+    "source": "Nautilus",
+    "link": "https://nautil.us/scientists-are-people-too-1237050/?_sp=b9f74744-9c79-4b13-96b0-0718bceac101.1757848504068",
+    "tags": ["science", "scientists", "culture"],
+    "tags_zh": ["科学", "科学家", "文化"],
+    "date": "Unknown",
+    "summary_en": "This article explores the personal lives and experiences of scientists, highlighting their humanity and the challenges they face.",
+    "summary_zh": "本文探讨了科学家的个人生活和经历，突出了他们的人性和他们面临的挑战。",
+    "best_quote_en": "Scientists are driven by curiosity, passion, and a desire to understand the world around them.",
+    "best_quote_zh": "科学家们被好奇心、热情和理解周围世界的渴望所驱动。"
+  },
+  {
+    "id": 7,
+    "title": "阮一峰的网络日志：科技爱好者周刊（第 363 期）",
+    "title_zh": "阮一峰的网络日志：科技爱好者周刊（第 363 期）",
+    "source": "ruanyifeng.com",
+    "link": "https://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html",
+    "tags": ["technology", "weekly", "news", "programming"],
+    "tags_zh": ["技术", "每周", "新闻", "编程"],
+    "date": "08/04/2025",
+    "summary_en": "Ruanyifeng's Weekly Tech Newsletter (Issue 363) covers a variety of topics related to technology, programming, and the internet.",
+    "summary_zh": "阮一峰的科技爱好者周刊（第 363 期）涵盖了与科技、编程和互联网相关的各种主题。",
+    "best_quote_en": "A curated collection of interesting articles, tools, and resources for tech enthusiasts.",
+    "best_quote_zh": "为科技爱好者精选的有趣文章、工具和资源。"
+  }
 ]
+
+
