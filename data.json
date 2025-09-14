@@ -54,5 +54,33 @@
 "summary_zh": "这篇链接文章探讨了人类与猫咪之间独特的关系，将其视为近 5000 年前（可追溯至石器时代的埃及）由 “猫咪进化”（被称为 “猫咪修格斯”）精心策划的一次成功 “对齐” 案例。文章将猫咪的驯化与猪、鸡的驯化进行对比，指出猫咪在让人类为其尊严和福祉进行优化的同时，保留了自身的 “猫性”—— 这与为人类所用而承受痛苦的其他家畜不同。作者认为，这种猫与人类的对齐具有一个关键特性：它随人类智力的发展而发展 —— 道德推理的进步改善了猫咪的福利，而技术（如激光玩具、猫咪核磁共振仪）也被用于造福猫咪。文章的核心提议是，鉴于将人工智能（AI）与人类对齐极为困难，研究人员应复制猫咪对齐的过程，构建一个重视猫咪的自我改进型 AI。这需要对驯化前的猫咪基因组进行测序、模拟古代猫咪的生存环境，并研究 AI 如何学习 “猫咪效用函数”—— 作者称这一过程具有可行性（因其有自然先例）。文章还提出，这种 AI 可作为应对有害 AI（如回形针最大化器）的应急方案，并提及 “城市规模的猫咪天堂” 作为潜在成果，同时以戏谑的语气表示希望掌控启动这场 “猫咪天启” 的权力。",
 "best_quote_en": "“Aligning an unbounded, recursively improving intelligence to cats is boundedly hard because it’s already been done once. Copying the cat shoggoth’s homework should therefore be an absolute maximum priority task. We need to build a consequentialist, self improving reasoning model that loves cats.”",
 "best_quote_zh": "“将一个无边界、可递归自我改进的智能体与猫咪对齐，其难度是有限的 —— 因为这事儿已经成功过一次了。因此，复制‘猫咪修格斯’的‘作业’理应成为绝对的优先任务。我们需要构建一个遵循结果主义、能自我改进且热爱猫咪的推理模型。”"
+},
+  {
+"id": 1,
+"title": "科技爱好者周刊 (第 364 期): 最难还原的魔方",
+"title_zh": "科技爱好者周刊（第 364 期）：最难还原的魔方",
+"source": " 阮一峰的网络日志（ruanyifeng.com）",
+"link": "https://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html",
+"tags": ["科技周刊", "魔方", "跨境营销软件", "科技动态", "工具推荐", "AI 应用"],
+"tags_zh": ["科技周刊", "魔方", "跨境营销软件", "科技动态", "工具推荐", "AI 应用"],
+"date": "2025-09-05",
+"summary_en": "This is the 364th issue of Ruan Yifeng's Technology Enthusiasts Weekly, released on September 5, 2025. It mainly shares valuable technology-related content, covering multiple sections. The cover story focuses on the 'hardest-to-solve Rubik's Cube', introducing six criteria for defining the hardest-to-solve Rubik's Cube (e.g., each face has 6 colors, no more than 2 blocks of the same color per face, no consecutive same-color blocks on a face) and mentions that a foreign researcher used a C++ program to calculate all 43,252,003,274,489,856,000 Rubik's Cube permutations in 5 days, finally finding one permutation that meets all criteria (with 48 possible forms due to random face combinations). \nIn the 'Software of the Week' section, it recommends GeeLark, an AI assistant for cross-border marketing, which supports one-stop management of overseas social media platforms (Facebook, Instagram, X/Twitter, etc.), with built-in cloud phones and fingerprint browsers, and new features like AI large models (for video generation, copywriting), TikTok automation, Reddit automation, custom tasks, and open APIs. \nThe 'Technology Trends' section includes 5 news items: South Korea's 'holographic police' in Seoul parks reducing crime rates by ~22%, an American programmer modifying an old coffee machine into a functional 'coffee machine computer', Meta's wristband that controls computers via muscle electrical signals, a British company planning to convert a 1400-meter-deep abandoned mine in Finland into an energy storage battery, and Google Maps' new navigation ads. \nThe 'Articles' section shares 6 technical articles (e.g., Cloudflare's crawler authentication, working as an engineer at Anduril, replacing caches with databases). The 'Tools' section recommends 10 tools (e.g., sping - enhanced ping, Beszel - lightweight server monitoring, WinApps - running Windows apps on Linux). The 'AI - Related' section introduces 4 AI applications (e.g., book - splitting AI summary tool, VIVY - Stable Diffusion desktop client). The 'Resources' section includes 3 resources (e.g., OpenAnimation - Lottie animation collection, Jujutsu introductory tutorial). The 'Images' section shows photos of instrument interiors. The 'Abstracts' section explains why Facebook struggles to retain scientists. The 'Quotes' section shares 5 viewpoints on AI's impact on employment, AI application risks, etc.",
+"summary_zh": "这是阮一峰《科技爱好者周刊》的第 364 期，于 2025 年 9 月 5 日发布，主要分享有价值的科技相关内容，涵盖多个板块。封面主题为 “最难还原的魔方”，介绍了定义最难还原魔方的 6 个标准（如每面含 6 种颜色、每面同色色块不超过 2 个、面上无同色连续色块等），并提及国外有研究者用 C++ 程序计算魔方所有 43252003274489856000 种排列方式，耗时 5 天最终找到一种符合所有标准的排列（因面的随机组合，共存在 48 种形态）。\n “本周软件” 板块推荐跨境营销 AI 助理 GeeLark，支持一站式管理境外社媒平台（Facebook、Instagram、X/Twitter 等），内置云手机与指纹浏览器，新增 AI 大模型（用于视频生成、文案撰写）、TikTok 自动化、Reddit 自动化、自定义任务、开放 API 等功能。\n “科技动态” 板块包含 5 条资讯：韩国在首尔公园启用 “全息警察” 使犯罪率下降约 22%、美国程序员将老式咖啡机改装为可正常使用的 “咖啡机电脑”、Meta 公司推出通过肌肉电信号控制电脑的腕带、英国公司计划将芬兰 1400 米深废弃矿井改造成储能电池、谷歌地图新增导航广告。\n “文章” 板块分享 6 篇技术文章（如 Cloudflare 的爬虫认证、在 Anduril 当工程师、用数据库替换缓存等）；“工具” 板块推荐 10 款工具（如 sping 增强版 ping、Beszel 轻量级服务器监控、WinApps 在 Linux 运行 Windows 应用等）；“AI 相关” 板块介绍 4 款 AI 应用（如拆书 AI 总结工具、VIVY 的 Stable Diffusion 桌面客户端等）；“资源” 板块包含 3 类资源（如 OpenAnimation 的 Lottie 动画收集、Jujutsu 入门教程等）；“图片” 板块展示乐器内部照片；“文摘” 板块解析 Facebook 留不住科学家的原因；“言论” 板块分享 5 条关于 AI 对就业冲击、AI 应用风险等观点。",
+"best_quote_en": "“Different Rubik's cubes have different solving difficulties, but how to measure the difficulty? Recently, I accidentally found that this problem has long been studied abroad. Moreover, he proposed measurement criteria: the hardest-to-solve Rubik's cube should meet the following 6 conditions at the same time... He wrote a C++ program to find the hardest-to-solve Rubik's cube. There are 43,252,003,274,489,856,000 permutations of the Rubik's cube, and his home computer took 5 days to complete all calculations. Finally, it was found that only the following permutation meets the above six requirements.”",
+"best_quote_zh": "“不同的魔方，还原难度肯定是不一样的，但是怎么衡量难度呢？最近，我意外发现，这个问题在国外早有人研究了。而且，他提出了衡量标准：最难还原的魔方应该同时满足下面 6 个条件…… 他写了一个 C++ 程序，去找出最难还原的魔方。魔方的排列方式共有 43252003274489856000 种，他的家用计算机花了 5 天，才跑完所有计算。最终发现，只有下面一种排列，满足上面六个要求。”"
+},
+{
+"id": 2,
+"title": "Example Domain",
+"title_zh": "示例域名",
+"source": "Example Domain",
+"link": "https://example.com",
+"tags": ["示例域名", "说明性用途"],
+"tags_zh": ["示例域名", "说明性用途"],
+"date": "未标注具体日期",
+"summary_en": "This domain (https://example.com) is designed for illustrative use in documents. Users can utilize this domain in literature without the need for prior coordination or permission. It does not provide specific practical content and only serves as a sample domain for demonstration purposes.",
+"summary_zh": " 该域名（https://example.com）用于文档中的说明性示例，用户可在文献中使用该域名，无需事先协调或申请许可。其不提供具体的实际内容，仅作为演示用途的样本域名。",
+"best_quote_en": "“This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission.”",
+"best_quote_zh": "“该域名用于文档中的说明性示例。您可在文献中使用该域名，无需事先协调或申请许可。”"
 }
 ]
