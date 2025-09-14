@@ -26,5 +26,33 @@
 "summary_zh": "右翼影响者、反跨性别权利的特朗普盟友查理・柯克在其 “美国复兴巡回” 活动中遭枪击身亡后，多名艺术家和媒体人士因嘲讽其死亡或发表争议性评论而面临职业后果。DC 漫画《红头罩》系列编剧格雷琴・费尔克 - 马丁因发布 “为你这纳粹贱人献上思念与祈祷” 等言论，被 DC 解雇且 Bluesky 账号被暂停；Sucker Punch Productions（索尼旗下子公司）的艺术家德鲁・哈里森因发布关于枪手的言论被解雇；MSNBC 评论员马修・多德因 “不可接受且麻木不仁的评论” 被康卡斯特解雇。此外，喜剧中心将讽刺柯克的《南方公园》剧集《Got a Nut》下架（但仍可在派拉蒙 + 流媒体平台观看）。DC 称问题在于费尔克 - 马丁的发帖语气而非其观点，Bluesky 则以 “暴力或威胁性言论” 为由暂停其账号。罗克珊・盖伊等批评者认为这是过度反应，且威胁言论自由，策展人赫拉格・瓦尔塔尼安指出，受当前政治环境影响，艺术家正进行自我审查。尽管收到死亡威胁，费尔克 - 马丁仍从酷儿社群聚会中获得慰藉。",
 "best_quote_en": "Either you believe in free speech or you don't. — Roxane Gay",
 "best_quote_zh": "要么你信奉言论自由，要么你就不信。—— 罗克珊・盖伊"
+},
+  {
+"id": 1,
+"title": "Why We Should Tune Into the Orchestra of the Animal World",
+"title_zh": "为何我们应聆听动物世界的 “交响乐”",
+"source": "Aeon",
+"link": "https://aeon.co/essays/why-we-should-tune-into-the-orchestra-of-the-animal-world",
+"tags": ["Animals and humans", "Biology", "Music", "Healing"],
+"tags_zh": ["动物与人类", "生物学", "音乐", "疗愈"],
+"date": "2025-09-04",
+"summary_en": "This essay argues that the sounds of the animal world, described as a 'great animal orchestra', possess profound healing properties and connect humans to the broader web of life. It explores how various animal sounds—from birdsong and bee buzzing to cat purrs and dolphin frequencies—contribute to human mental and physical wellbeing. The text cites scientific studies (e.g., King’s College London research on birdsong improving mental health) and cultural examples (e.g., Navajo 'Singers', ancient Egyptian bee teachings, Slovenian bee-healing traditions) to support the idea that animal sounds restore harmony, reduce anxiety, and remind humans of their place as one species among many. It also highlights figures like soundscape ecologist Bernie Krause, who recorded natural soundscapes to emphasize the'sonic niche' of each creature, and notes how even infrasonic sounds (e.g., elephants, giraffes) and ultrasonic sounds (e.g., bats) shape this ecological symphony. Additionally, the essay touches on the infectious joy of animal laughter (e.g., bonobos, kea parrots) and the lessons humans learn from animals about embodied vitality, contrasting comforting animal sounds with unsettling ones to underscore the full spectrum of nature’s acoustic influence.",
+"summary_zh": "本文认为，被描述为 “伟大动物交响乐” 的动物世界之声具有深远的疗愈作用，并能将人类与更广阔的生命网络相连。文章探讨了从鸟鸣、蜜蜂嗡嗡声到猫咕噜声、海豚发声频率等各类动物声音如何助力人类身心健康。文中引用科学研究（如伦敦国王学院关于鸟鸣改善心理健康的研究）和文化案例（如纳瓦霍族的 “歌者”、古埃及的蜜蜂教义、斯洛文尼亚的蜜蜂疗愈传统），佐证动物声音可恢复和谐、缓解焦虑，并提醒人类自身仅是众多物种中的一员。文章还重点介绍了声音景观生态学家伯尼・克劳斯等人物 —— 他通过录制自然声音景观，强调每种生物的 “声音生态位”，并指出即使是次声波（如大象、长颈鹿的声音）和超声波（如蝙蝠的声音）也在塑造这一生态交响乐。此外，本文还提及动物笑声（如倭黑猩猩、啄羊鹦鹉的笑声）所传递的感染力，以及人类从动物身上学到的关于躯体活力的启示；同时对比了令人安心与令人不安的动物声音，以凸显自然界声音影响的完整范围。",
+"best_quote_en": "“Through the sounds of nature, we may move into the fullness of what it is to be a person... A person is an instrument of listening, played by the everything that surrounds them, resonating with goat-song and puffin-joke and camel-carol. Our bodies rung by the wild voices, the bells, blowings and buglings of life, conducting us to that place both electric and tender where we can feel most fully alive.”",
+"best_quote_zh": "“透过自然之声，我们或许能体悟到作为人的完整意义…… 人是聆听的乐器，被周遭万物所奏响，与山羊的鸣叫、海鹦的嬉语、骆驼的欢歌共振。生命的野性呼唤、清脆铃音、悠长呼啸与洪亮号角萦绕我们的身躯，引领我们抵达一个既激昂又温柔的境地 —— 在那里，我们能最真切地感受到生命的蓬勃。”"
+},
+{
+"id": 2,
+"title": "The Cats are On To Something",
+"title_zh": "猫咪们有所发现",
+"source": "LessWrong",
+"link": "http://lesswrong.com/posts/WLFRkm3PhJ3Ty27QH/the-cats-are-on-to-something",
+"tags": ["Cats", "AI Alignment", "Evolution", "Domestication"],
+"tags_zh": ["猫咪", "人工智能对齐", "进化", "驯化"],
+"date": "2025-09-02",
+"summary_en": "This linkpost discusses the unique relationship between humans and cats, framing it as a successful case of 'alignment' orchestrated by 'cat evolution' (dubbed the 'cat shoggoth') over nearly 5,000 years, dating back to Stone Age Egypt. It contrasts cats’ domestication with that of pigs or chickens, noting that cats retained their 'cat-ness' while getting humans to optimize for their dignity and wellbeing—unlike other livestock that suffer for human use. The author argues that this feline-human alignment has a key property: it scales with human intelligence, as advances in moral reasoning have improved cat welfare, and technology (e.g., laser toys, cat MRI machines) has been used to benefit cats. The core proposal is that since aligning AI to humans is extremely difficult, researchers should replicate the cat alignment process to build a self-improving AI that values cats. This would involve sequencing pre-domestic cat genomes, simulating ancient cat environments, and studying how the AI learns the 'cat utility function'—a process the author claims is feasible (given its natural precedent). The essay also suggests this AI could serve as a contingency against harmful AIs (e.g., paperclip maximizers) and mentions plans for 'city-sized cat heavens' as a potential outcome, with a playful note about wanting control over activating this 'catpocalypse'.",
+"summary_zh": "这篇链接文章探讨了人类与猫咪之间独特的关系，将其视为近 5000 年前（可追溯至石器时代的埃及）由 “猫咪进化”（被称为 “猫咪修格斯”）精心策划的一次成功 “对齐” 案例。文章将猫咪的驯化与猪、鸡的驯化进行对比，指出猫咪在让人类为其尊严和福祉进行优化的同时，保留了自身的 “猫性”—— 这与为人类所用而承受痛苦的其他家畜不同。作者认为，这种猫与人类的对齐具有一个关键特性：它随人类智力的发展而发展 —— 道德推理的进步改善了猫咪的福利，而技术（如激光玩具、猫咪核磁共振仪）也被用于造福猫咪。文章的核心提议是，鉴于将人工智能（AI）与人类对齐极为困难，研究人员应复制猫咪对齐的过程，构建一个重视猫咪的自我改进型 AI。这需要对驯化前的猫咪基因组进行测序、模拟古代猫咪的生存环境，并研究 AI 如何学习 “猫咪效用函数”—— 作者称这一过程具有可行性（因其有自然先例）。文章还提出，这种 AI 可作为应对有害 AI（如回形针最大化器）的应急方案，并提及 “城市规模的猫咪天堂” 作为潜在成果，同时以戏谑的语气表示希望掌控启动这场 “猫咪天启” 的权力。",
+"best_quote_en": "“Aligning an unbounded, recursively improving intelligence to cats is boundedly hard because it’s already been done once. Copying the cat shoggoth’s homework should therefore be an absolute maximum priority task. We need to build a consequentialist, self improving reasoning model that loves cats.”",
+"best_quote_zh": "“将一个无边界、可递归自我改进的智能体与猫咪对齐，其难度是有限的 —— 因为这事儿已经成功过一次了。因此，复制‘猫咪修格斯’的‘作业’理应成为绝对的优先任务。我们需要构建一个遵循结果主义、能自我改进且热爱猫咪的推理模型。”"
 }
 ]
