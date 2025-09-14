@@ -110,5 +110,19 @@
 "summary_zh": "本文介绍了一种极简主义的生产力方法 ——“1 张卡片生产力邪修法”，该方法摒弃复杂的效率软件，仅依靠两张纸质卡片提升工作效率。其中 “邪” 体现在其反潮流属性：不追逐各类工具，反而用简单的纸质卡片替代所有生产力应用，强调反复杂、反工具主义；“修” 则指其对心性的磨炼：卡片的有限空间迫使人们取舍，只聚焦最重要的事，核心是从 “管理时间” 转向直面关键事务，不再逃避。\n 该方法仅需准备两张纸质卡片：“要务卡” 与 “杂务卡”。“要务卡” 的用法是：每天早晨在卡片上写下当天最重要、必须完成的 1-2 个攻坚任务（如撰写一篇文章、完成一份报告），这类任务通常难度高、需深度思考且需不受干扰才能推进；随后设定 “专注时段”（如上午 9 点至 11 点），在此期间桌面只保留这张卡片，所有通讯工具全部静音，确保此时仅聚焦这一件事。“杂务卡” 则用于记录所有零碎事务（如回邮件、打电话、填报销、催进度），它并非核心工作战场，而是 “清障清单”，仅在完成 “要务卡” 任务的间隙或精力下降时集中处理，将琐事隔离出去本身就是一种解脱。\n 方法的核心原则是 “隔离”：两张卡片物理隔离、绝不混合，处理要务时 “杂务卡” 绝不能出现在视野中，这种隔离并非形式，而是对最稀缺资源 —— 专注力的保护。每日结束时，两张卡片均随手扔掉，既让 “要务卡” 确保当天创造了真正价值，也让 “杂务卡” 清理了生活杂波，次日可轻装上阵，无历史包袱与拖延清单。\n 文章解释该方法有效的原因：它如同生产力的 “苦修”，通过空间与时间的限制，约束贪心与自我欺骗，反而能让人体验到久违的清晰与踏实。文末鼓励读者尝试，建议坚持一周，强调真正的生产力不是追逐更多工具，而是用最简单的方式把最重要的事做到最好。",
 "best_quote_en": "“True productivity is not about chasing more tools, but about using the simplest way to do the most important things well.”",
 "best_quote_zh": "“真正的生产力，不是追逐更多工具，而是用最简单的方式，把最重要的事做到最好。”"
+},
+    {
+    "id": 1,
+    "title": "How an invasive shrub derailed visions of prosperity in Kenya",
+    "title_zh": "一种入侵灌木如何让肯尼亚的繁荣愿景脱轨",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/how-an-invasive-shrub-derailed-visions-of-prosperity-in-kenya",
+    "tags": ["Anthropology", "Development", "Invasive Species"],
+    "tags_zh": ["人类学", "发展", "入侵物种"],
+    "date": "2025-09-08",
+    "summary_en": "The article discusses how the introduction of the invasive shrub Prosopis juliflora (etirae), a species of mesquite, has negatively impacted Kenya's farmlands and local livelihoods, particularly in the arid north. Originally introduced in the 1980s by NGOs to combat famine and environmental issues like soil erosion and fuelwood shortages, the shrub was seen as a way to bring progress and stability to pastoralist communities. However, it has since become one of Africa's worst invasive species, outcompeting native flora, strangling farmlands, and causing health problems for livestock and people. The article uses this situation as a parable to argue that the 'visions of progress' held by development workers and policymakers are often rooted in a misunderstanding of local livelihoods and values. It contrasts the traditional, flexible pastoralist lifestyle with the rigid, predictable, and control-oriented idea of prosperity often imposed by external interventions. The author, Samuel F. Derbyshire, highlights through personal anecdotes and research that despite growing understanding of the dynamic nature of pastoralism, these old, flawed narratives persist. The piece concludes that genuine prosperity must be nurtured from the ground up, not imposed from the outside, and that the 'quiet work' of local people adapting to these challenges is often overlooked.",
+    "summary_zh": "这篇文章探讨了入侵灌木牧豆树（etirae）的引入如何对肯尼亚的农田和当地生计造成负面影响，尤其是在干旱的北部地区。该灌木最初由非政府组织在20世纪80年代引入，旨在应对饥荒和水土流失、燃料短缺等环境问题，被视为能为游牧社区带来进步和稳定。然而，它现已成为非洲最严重的入侵物种之一，挤占本地植物，扼杀农田，并对牲畜和人类健康造成问题。文章将这种情况比作一个寓言，指出发展工作者和政策制定者的“进步愿景”往往源于对当地生计和价值观的误解。它将传统的、灵活的游牧生活方式与外部干预强加的僵化、可预测和以控制为导向的繁荣理念进行对比。作者塞缪尔·F·德比郡（Samuel F. Derbyshire）通过个人轶事和研究强调，尽管人们对游牧生活的动态性质有了更深入的了解，但这些过时、有缺陷的叙事依然存在。文章总结道，真正的繁荣必须从基层培养，而不是从外部强加，而当地居民为适应这些挑战所做的“默默工作”常常被忽视。",
+    "best_quote_en": "If Kenya's long entanglement with international development teaches us anything, it is that prosperity swells from the ground up. It must be nurtured, not imposed.",
+    "best_quote_zh": "如果肯尼亚长期与国际发展纠缠的经历教会我们什么，那就是繁荣是从基层兴起的。它必须被培养，而不是被强加。"
 }
 ]
